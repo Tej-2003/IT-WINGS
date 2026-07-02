@@ -5,10 +5,36 @@ import { dbManager } from './dbManager.js';
 const app = express();
 const PORT = process.env.PORT || 5000;
 
-// Enable CORS and JSON body parser with payload limit (for base64 photos)
-app.use(cors());
+// Enable CORS for Netlify frontend (and localhost for dev)
+const allowedOrigins = [
+  'http://localhost:5173',
+  'http://localhost:4173',
+  'https://spiffy-meringue-f59fd5.netlify.app',
+];
+
+app.use(cors({
+  origin: function (origin, callback) {
+    // Allow requests with no origin (mobile apps, curl, etc.)
+    if (!origin) return callback(null, true);
+    if (allowedOrigins.includes(origin)) {
+      return callback(null, true);
+    }
+    return callback(null, true); // Allow all for now, tighten later
+  },
+  credentials: true,
+}));
+
 app.use(express.json({ limit: '20mb' }));
 app.use(express.urlencoded({ limit: '20mb', extended: true }));
+
+// Health check endpoint (Render uses this to verify server is alive)
+app.get('/', (req, res) => {
+  res.json({
+    status: 'ok',
+    message: '🚀 ICCC Survey Backend is running',
+    timestamp: new Date().toISOString(),
+  });
+});
 
 // Log middleware
 app.use((req, res, next) => {

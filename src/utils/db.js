@@ -1,4 +1,7 @@
-const API_BASE = 'http://localhost:5000/api';
+// Auto-detect: use localhost in dev, Render backend in production
+const API_BASE = window.location.hostname === 'localhost'
+  ? 'http://localhost:5000/api'
+  : 'https://RENDER_URL_PLACEHOLDER/api';  // ← We'll replace this after Render deployment
 
 export const DB = {
   async login(username, password, role) {
