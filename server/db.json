@@ -1,0 +1,1027 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Admin User",
+      "user": "admin",
+      "pass": "admin123",
+      "role": "admin",
+      "zone": ""
+    },
+    {
+      "id": 5,
+      "name": "Manikandan",
+      "user": "manikandan3823",
+      "pass": "Mani@3823",
+      "role": "off",
+      "zone": "",
+      "mobile": "8610033823"
+    },
+    {
+      "id": 6,
+      "name": "Kamalesh",
+      "user": "kamalesh7372",
+      "pass": "Kama@7372",
+      "role": "off",
+      "zone": "",
+      "mobile": "9940877372"
+    },
+    {
+      "id": 7,
+      "name": "ASHIQ",
+      "user": "ashiq8775",
+      "pass": "Ashi@8775",
+      "role": "off",
+      "zone": "",
+      "mobile": "8608518775"
+    },
+    {
+      "id": 8,
+      "name": "Harish R",
+      "user": "harishr5445",
+      "pass": "Hari@5445",
+      "role": "off",
+      "zone": "",
+      "mobile": "9345495445"
+    },
+    {
+      "id": 9,
+      "name": "Subramani",
+      "user": "subramani2388",
+      "pass": "Subr@2388",
+      "role": "off",
+      "zone": "",
+      "mobile": "9092462388"
+    },
+    {
+      "id": 10,
+      "name": "Harish.M",
+      "user": "harishm6651",
+      "pass": "Hari@6651",
+      "role": "off",
+      "zone": "",
+      "mobile": "9566816651"
+    },
+    {
+      "id": 11,
+      "name": "Naveen",
+      "user": "naveen3829",
+      "pass": "Nave@3829",
+      "role": "off",
+      "zone": "",
+      "mobile": "9600933829"
+    },
+    {
+      "id": 12,
+      "name": "Akilan",
+      "user": "akilan8277",
+      "pass": "Akil@8277",
+      "role": "off",
+      "zone": "",
+      "mobile": "9361228277"
+    },
+    {
+      "id": 13,
+      "name": "Jayasurya",
+      "user": "jayasurya3193",
+      "pass": "Jaya@3193",
+      "role": "off",
+      "zone": "",
+      "mobile": "8220653193"
+    },
+    {
+      "id": 14,
+      "name": "Sundharamoorthi",
+      "user": "sundharamoorthi7116",
+      "pass": "Sund@7116",
+      "role": "off",
+      "zone": "",
+      "mobile": "6385707116"
+    },
+    {
+      "id": 15,
+      "name": "Vasanth Kumar",
+      "user": "vasanthkumar1698",
+      "pass": "Vasa@1698",
+      "role": "off",
+      "zone": "",
+      "mobile": "7904011698"
+    },
+    {
+      "id": 16,
+      "name": "Nithish B",
+      "user": "nithishb3729",
+      "pass": "Nith@3729",
+      "role": "off",
+      "zone": "",
+      "mobile": "8838063729"
+    },
+    {
+      "id": 17,
+      "name": "Anbarasu",
+      "user": "anbarasu9077",
+      "pass": "Anba@9077",
+      "role": "off",
+      "zone": "",
+      "mobile": "6380049077"
+    },
+    {
+      "id": 18,
+      "name": "Kathirvel",
+      "user": "kathirvel7454",
+      "pass": "Kath@7454",
+      "role": "off",
+      "zone": "",
+      "mobile": "8300377454"
+    },
+    {
+      "id": 19,
+      "name": "Vishnu Priyan",
+      "user": "vishnupriyan6560",
+      "pass": "Vish@6560",
+      "role": "off",
+      "zone": "",
+      "mobile": "6380376560"
+    },
+    {
+      "id": 20,
+      "name": "Pratheesh",
+      "user": "pratheesh2798",
+      "pass": "Prat@2798",
+      "role": "off",
+      "zone": "",
+      "mobile": "6385622798"
+    },
+    {
+      "id": 21,
+      "name": "Ajith.S",
+      "user": "ajiths2435",
+      "pass": "Ajit@2435",
+      "role": "off",
+      "zone": "",
+      "mobile": "7010002435"
+    },
+    {
+      "id": 22,
+      "name": "Mohana Priya",
+      "user": "mohanapriya8019",
+      "pass": "Moha@8019",
+      "role": "off",
+      "zone": "",
+      "mobile": "9597818019"
+    },
+    {
+      "id": 23,
+      "name": "Ganesan",
+      "user": "ganesan6422",
+      "pass": "Gane@6422",
+      "role": "off",
+      "zone": "",
+      "mobile": "9894336422"
+    },
+    {
+      "id": 24,
+      "name": "Sowmiyan",
+      "user": "sowmiyan9669",
+      "pass": "Sowm@9669",
+      "role": "off",
+      "zone": "",
+      "mobile": "6383069669"
+    },
+    {
+      "id": 25,
+      "name": "Kalaikovan",
+      "user": "kalaikovan9669",
+      "pass": "Kala@9669",
+      "role": "off",
+      "zone": "",
+      "mobile": "6383069669"
+    },
+    {
+      "id": 26,
+      "name": "Illayabharathi",
+      "user": "illayabharathi4843",
+      "pass": "Illa@4843",
+      "role": "off",
+      "zone": "",
+      "mobile": "8438584843"
+    },
+    {
+      "id": 27,
+      "name": "Gopinath",
+      "user": "gopinath7879",
+      "pass": "Gopi@7879",
+      "role": "off",
+      "zone": "",
+      "mobile": "9840967879"
+    },
+    {
+      "id": 28,
+      "name": "Arish Ronald",
+      "user": "arishronald0596",
+      "pass": "Aris@0596",
+      "role": "off",
+      "zone": "",
+      "mobile": "9751770596"
+    },
+    {
+      "id": 29,
+      "name": "Dinakaran",
+      "user": "dinakaran3119",
+      "pass": "Dina@3119",
+      "role": "off",
+      "zone": "",
+      "mobile": "7639163119"
+    },
+    {
+      "id": 30,
+      "name": "Nirmal",
+      "user": "nirmal5192",
+      "pass": "Nirm@5192",
+      "role": "off",
+      "zone": "",
+      "mobile": "9344475192"
+    },
+    {
+      "id": 31,
+      "name": "Kowshik kumar",
+      "user": "kowshikkumar3163",
+      "pass": "Kows@3163",
+      "role": "off",
+      "zone": "",
+      "mobile": "6385763163"
+    },
+    {
+      "id": 32,
+      "name": "Boopathy",
+      "user": "boopathy1647",
+      "pass": "Boop@1647",
+      "role": "off",
+      "zone": "",
+      "mobile": "9952131647"
+    },
+    {
+      "id": 33,
+      "name": "Varun",
+      "user": "varun1884",
+      "pass": "Varu@1884",
+      "role": "off",
+      "zone": "",
+      "mobile": "9047421884"
+    },
+    {
+      "id": 34,
+      "name": "Nithish.S",
+      "user": "nithishs0542",
+      "pass": "Nith@0542",
+      "role": "off",
+      "zone": "",
+      "mobile": "9597610542"
+    },
+    {
+      "id": 35,
+      "name": "Luckneshwaran",
+      "user": "luckneshwaran9876",
+      "pass": "Luck@9876",
+      "role": "off",
+      "zone": "",
+      "mobile": "9500449876"
+    },
+    {
+      "id": 36,
+      "name": "Raghul",
+      "user": "raghul7656",
+      "pass": "Ragh@7656",
+      "role": "off",
+      "zone": "",
+      "mobile": "9943617656"
+    },
+    {
+      "id": 37,
+      "name": "Nandha Kumar",
+      "user": "nandhakumar0761",
+      "pass": "Nand@0761",
+      "role": "off",
+      "zone": "",
+      "mobile": "9952860761"
+    }
+  ],
+  "visits": [
+    {
+      "id": 1782888864348,
+      "offId": 2,
+      "offName": "Ravi Kumar",
+      "co": "Sri Lakshmi Textiles",
+      "asn": "WD-2024-101",
+      "dno": "14",
+      "st": "Mount Road",
+      "reg": "register",
+      "contact": "9884012345",
+      "docs": {
+        "gst": false,
+        "pan": false
+      },
+      "desc": "",
+      "wd": "12",
+      "zn": "North Zone",
+      "isNew": false,
+      "pay": "paid",
+      "amt": 4500,
+      "appStatus": "",
+      "appRemarks": "",
+      "lat": "13.082700",
+      "lng": "80.270700",
+      "ph": null,
+      "phf": null,
+      "ts": "2026-07-01T03:50:00.000Z",
+      "date": "2026-07-01"
+    },
+    {
+      "id": 1782888864369,
+      "offId": 2,
+      "offName": "Ravi Kumar",
+      "co": "Balaji Hardware",
+      "asn": "",
+      "dno": "22",
+      "st": "Anna Nagar",
+      "reg": "register",
+      "contact": "9884012345",
+      "docs": {
+        "gst": false,
+        "pan": false
+      },
+      "desc": "",
+      "wd": "14",
+      "zn": "North Zone",
+      "isNew": true,
+      "pay": "not_paid",
+      "amt": 0,
+      "appStatus": "others",
+      "appRemarks": "Owner unavailable, will revisit next week",
+      "lat": "13.099800",
+      "lng": "80.284900",
+      "ph": null,
+      "phf": null,
+      "ts": "2026-07-01T07:35:00.000Z",
+      "date": "2026-07-01"
+    },
+    {
+      "id": 1782888864370,
+      "offId": 3,
+      "offName": "Suresh M",
+      "co": "Madurai Silks",
+      "asn": "WD-2024-205",
+      "dno": "9",
+      "st": "South Veli Street",
+      "reg": "register",
+      "contact": "9843056789",
+      "docs": {
+        "gst": false,
+        "pan": false
+      },
+      "desc": "",
+      "wd": "7",
+      "zn": "South Zone",
+      "isNew": false,
+      "pay": "paid",
+      "amt": 6200,
+      "appStatus": "",
+      "appRemarks": "",
+      "lat": "9.925200",
+      "lng": "78.119800",
+      "ph": null,
+      "phf": null,
+      "ts": "2026-06-29T06:10:00.000Z",
+      "date": "2026-06-29"
+    },
+    {
+      "id": 1782888864371,
+      "offId": 3,
+      "offName": "Suresh M",
+      "co": "Green Valley Apartments",
+      "asn": "",
+      "dno": "5",
+      "st": "Bypass Road",
+      "reg": "register",
+      "contact": "9843056789",
+      "docs": {
+        "gst": false,
+        "pan": false
+      },
+      "desc": "",
+      "wd": "9",
+      "zn": "South Zone",
+      "isNew": true,
+      "pay": "not_paid",
+      "amt": 0,
+      "appStatus": "approval",
+      "appRemarks": "Awaiting society committee approval",
+      "lat": "9.933500",
+      "lng": "78.131200",
+      "ph": null,
+      "phf": null,
+      "ts": "2026-07-01T05:00:00.000Z",
+      "date": "2026-07-01"
+    },
+    {
+      "id": 1782888864372,
+      "offId": 4,
+      "offName": "Priya S",
+      "co": "City Bakers",
+      "asn": "WD-2024-310",
+      "dno": "3",
+      "st": "Market Street",
+      "reg": "register",
+      "contact": "9791023456",
+      "docs": {
+        "gst": false,
+        "pan": false
+      },
+      "desc": "",
+      "wd": "3",
+      "zn": "East Zone",
+      "isNew": false,
+      "pay": "paid",
+      "amt": 1800,
+      "appStatus": "",
+      "appRemarks": "",
+      "lat": "13.050000",
+      "lng": "80.220000",
+      "ph": null,
+      "phf": null,
+      "ts": "2026-07-01T04:25:00.000Z",
+      "date": "2026-07-01"
+    },
+    {
+      "id": 1782888864373,
+      "offId": 4,
+      "offName": "Priya S",
+      "co": "Om Sai Traders",
+      "asn": "",
+      "dno": "17",
+      "st": "Temple Street",
+      "reg": "register",
+      "contact": "9791023456",
+      "docs": {
+        "gst": false,
+        "pan": false
+      },
+      "desc": "",
+      "wd": "4",
+      "zn": "East Zone",
+      "isNew": true,
+      "pay": "not_paid",
+      "amt": 0,
+      "appStatus": "close",
+      "appRemarks": "Shop permanently closed — marked closed",
+      "lat": "13.054800",
+      "lng": "80.224600",
+      "ph": null,
+      "phf": null,
+      "ts": "2026-06-28T09:40:00.000Z",
+      "date": "2026-06-28"
+    },
+    {
+      "id": 1782888864374,
+      "offId": 2,
+      "offName": "Ravi Kumar",
+      "co": "Annapurna Stores",
+      "asn": "",
+      "dno": "8",
+      "st": "Gandhi Road",
+      "reg": "register",
+      "contact": "9884012345",
+      "docs": {
+        "gst": false,
+        "pan": false
+      },
+      "desc": "",
+      "wd": "12",
+      "zn": "North Zone",
+      "isNew": true,
+      "pay": "not_paid",
+      "amt": 0,
+      "appStatus": "doc_collection",
+      "appRemarks": "Owner requested 2 days to gather documents",
+      "lat": "13.089000",
+      "lng": "80.275000",
+      "ph": null,
+      "phf": null,
+      "ts": "2026-06-30T10:30:00.000Z",
+      "date": "2026-06-30"
+    }
+  ],
+  "track": {
+    "2": {
+      "name": "Ravi Kumar",
+      "lastSeen": "2026-07-01T07:51:20.742Z",
+      "pts": [
+        {
+          "lat": "13.082700",
+          "lng": "80.270700",
+          "ts": "2026-07-01T03:35:00.000Z"
+        },
+        {
+          "lat": "13.089000",
+          "lng": "80.275000",
+          "ts": "2026-07-01T04:10:00.000Z"
+        },
+        {
+          "lat": "13.095000",
+          "lng": "80.280000",
+          "ts": "2026-07-01T05:45:00.000Z"
+        },
+        {
+          "lat": "13.099800",
+          "lng": "80.284900",
+          "ts": "2026-07-01T07:35:00.000Z"
+        },
+        {
+          "lat": "11.009927",
+          "lng": "76.950563",
+          "ts": "2026-07-01T06:58:48.993Z"
+        },
+        {
+          "lat": "11.009927",
+          "lng": "76.950563",
+          "ts": "2026-07-01T06:58:49.004Z"
+        },
+        {
+          "lat": "11.009899",
+          "lng": "76.950553",
+          "ts": "2026-07-01T06:59:04.771Z"
+        },
+        {
+          "lat": "11.009914",
+          "lng": "76.950553",
+          "ts": "2026-07-01T07:02:06.848Z"
+        },
+        {
+          "lat": "11.009914",
+          "lng": "76.950553",
+          "ts": "2026-07-01T07:02:06.860Z"
+        },
+        {
+          "lat": "11.009904",
+          "lng": "76.950555",
+          "ts": "2026-07-01T07:05:14.612Z"
+        },
+        {
+          "lat": "11.009931",
+          "lng": "76.950559",
+          "ts": "2026-07-01T07:05:45.360Z"
+        },
+        {
+          "lat": "11.009931",
+          "lng": "76.950559",
+          "ts": "2026-07-01T07:05:45.373Z"
+        },
+        {
+          "lat": "11.009911",
+          "lng": "76.950559",
+          "ts": "2026-07-01T07:06:11.816Z"
+        },
+        {
+          "lat": "11.009911",
+          "lng": "76.950559",
+          "ts": "2026-07-01T07:06:11.833Z"
+        },
+        {
+          "lat": "11.009936",
+          "lng": "76.950561",
+          "ts": "2026-07-01T07:06:27.456Z"
+        },
+        {
+          "lat": "11.009929",
+          "lng": "76.950563",
+          "ts": "2026-07-01T07:06:43.320Z"
+        },
+        {
+          "lat": "11.009910",
+          "lng": "76.950552",
+          "ts": "2026-07-01T07:10:20.244Z"
+        },
+        {
+          "lat": "11.009910",
+          "lng": "76.950552",
+          "ts": "2026-07-01T07:10:20.254Z"
+        },
+        {
+          "lat": "11.009909",
+          "lng": "76.950551",
+          "ts": "2026-07-01T07:11:26.505Z"
+        },
+        {
+          "lat": "11.009909",
+          "lng": "76.950551",
+          "ts": "2026-07-01T07:11:26.512Z"
+        },
+        {
+          "lat": "11.009900",
+          "lng": "76.950551",
+          "ts": "2026-07-01T07:11:42.627Z"
+        },
+        {
+          "lat": "11.009912",
+          "lng": "76.950550",
+          "ts": "2026-07-01T07:12:34.409Z"
+        },
+        {
+          "lat": "11.009914",
+          "lng": "76.950549",
+          "ts": "2026-07-01T07:12:50.288Z"
+        },
+        {
+          "lat": "11.009933",
+          "lng": "76.950557",
+          "ts": "2026-07-01T07:14:11.437Z"
+        },
+        {
+          "lat": "11.009905",
+          "lng": "76.950541",
+          "ts": "2026-07-01T07:14:27.260Z"
+        },
+        {
+          "lat": "11.009926",
+          "lng": "76.950565",
+          "ts": "2026-07-01T07:32:26.653Z"
+        },
+        {
+          "lat": "11.009926",
+          "lng": "76.950565",
+          "ts": "2026-07-01T07:32:26.666Z"
+        },
+        {
+          "lat": "11.009927",
+          "lng": "76.950561",
+          "ts": "2026-07-01T07:33:10.689Z"
+        },
+        {
+          "lat": "11.009927",
+          "lng": "76.950561",
+          "ts": "2026-07-01T07:33:10.708Z"
+        },
+        {
+          "lat": "11.009912",
+          "lng": "76.950556",
+          "ts": "2026-07-01T07:38:50.541Z"
+        },
+        {
+          "lat": "11.009912",
+          "lng": "76.950556",
+          "ts": "2026-07-01T07:38:50.559Z"
+        },
+        {
+          "lat": "11.009926",
+          "lng": "76.950565",
+          "ts": "2026-07-01T07:39:06.985Z"
+        },
+        {
+          "lat": "11.009929",
+          "lng": "76.950560",
+          "ts": "2026-07-01T07:41:53.785Z"
+        },
+        {
+          "lat": "11.009929",
+          "lng": "76.950560",
+          "ts": "2026-07-01T07:41:53.795Z"
+        },
+        {
+          "lat": "11.009919",
+          "lng": "76.950550",
+          "ts": "2026-07-01T07:42:35.696Z"
+        },
+        {
+          "lat": "11.009902",
+          "lng": "76.950550",
+          "ts": "2026-07-01T07:43:07.186Z"
+        },
+        {
+          "lat": "11.009902",
+          "lng": "76.950550",
+          "ts": "2026-07-01T07:43:07.203Z"
+        },
+        {
+          "lat": "11.009922",
+          "lng": "76.950563",
+          "ts": "2026-07-01T07:43:23.658Z"
+        },
+        {
+          "lat": "11.009935",
+          "lng": "76.950563",
+          "ts": "2026-07-01T07:43:35.872Z"
+        },
+        {
+          "lat": "11.009902",
+          "lng": "76.950554",
+          "ts": "2026-07-01T07:44:24.023Z"
+        },
+        {
+          "lat": "11.009895",
+          "lng": "76.950557",
+          "ts": "2026-07-01T07:44:41.473Z"
+        },
+        {
+          "lat": "11.009895",
+          "lng": "76.950557",
+          "ts": "2026-07-01T07:44:46.579Z"
+        },
+        {
+          "lat": "11.009895",
+          "lng": "76.950557",
+          "ts": "2026-07-01T07:44:46.595Z"
+        },
+        {
+          "lat": "11.009907",
+          "lng": "76.950557",
+          "ts": "2026-07-01T07:50:38.426Z"
+        },
+        {
+          "lat": "11.009918",
+          "lng": "76.950553",
+          "ts": "2026-07-01T07:50:54.774Z"
+        },
+        {
+          "lat": "11.009918",
+          "lng": "76.950553",
+          "ts": "2026-07-01T07:51:20.742Z"
+        }
+      ]
+    },
+    "3": {
+      "name": "Suresh M",
+      "lastSeen": "2026-07-01T05:00:00.000Z",
+      "pts": [
+        {
+          "lat": "9.925200",
+          "lng": "78.119800",
+          "ts": "2026-07-01T03:45:00.000Z"
+        },
+        {
+          "lat": "9.929000",
+          "lng": "78.124000",
+          "ts": "2026-07-01T04:20:00.000Z"
+        },
+        {
+          "lat": "9.933500",
+          "lng": "78.131200",
+          "ts": "2026-07-01T05:00:00.000Z"
+        }
+      ]
+    },
+    "4": {
+      "name": "Priya S",
+      "lastSeen": "2026-07-01T04:25:00.000Z",
+      "pts": [
+        {
+          "lat": "13.050000",
+          "lng": "80.220000",
+          "ts": "2026-07-01T03:50:00.000Z"
+        },
+        {
+          "lat": "13.052500",
+          "lng": "80.222500",
+          "ts": "2026-07-01T04:25:00.000Z"
+        }
+      ]
+    },
+    "5": {
+      "name": "Manikandan",
+      "pts": [
+        {
+          "lat": "11.009929",
+          "lng": "76.950563",
+          "ts": "2026-07-01T10:34:07.636Z"
+        },
+        {
+          "lat": "11.009929",
+          "lng": "76.950563",
+          "ts": "2026-07-01T10:34:07.700Z"
+        },
+        {
+          "lat": "11.009894",
+          "lng": "76.950560",
+          "ts": "2026-07-01T10:40:46.423Z"
+        },
+        {
+          "lat": "11.009894",
+          "lng": "76.950560",
+          "ts": "2026-07-01T10:40:46.435Z"
+        },
+        {
+          "lat": "11.009901",
+          "lng": "76.950553",
+          "ts": "2026-07-01T10:41:50.691Z"
+        },
+        {
+          "lat": "11.009907",
+          "lng": "76.950561",
+          "ts": "2026-07-01T10:48:19.700Z"
+        },
+        {
+          "lat": "11.009917",
+          "lng": "76.950553",
+          "ts": "2026-07-01T10:48:35.936Z"
+        },
+        {
+          "lat": "11.009916",
+          "lng": "76.950547",
+          "ts": "2026-07-01T10:51:21.634Z"
+        },
+        {
+          "lat": "11.009916",
+          "lng": "76.950547",
+          "ts": "2026-07-01T10:51:21.651Z"
+        }
+      ],
+      "lastSeen": "2026-07-01T10:51:21.651Z"
+    },
+    "12": {
+      "name": "Akilan",
+      "pts": [
+        {
+          "lat": "11.009927",
+          "lng": "76.950562",
+          "ts": "2026-07-01T10:35:16.159Z"
+        },
+        {
+          "lat": "11.009927",
+          "lng": "76.950562",
+          "ts": "2026-07-01T10:35:16.175Z"
+        }
+      ],
+      "lastSeen": "2026-07-01T10:35:16.175Z"
+    }
+  },
+  "alerts": [],
+  "attendance": [
+    {
+      "id": 1782888864391,
+      "offId": 2,
+      "offName": "Ravi Kumar",
+      "date": "2026-06-28",
+      "status": "present",
+      "presentTime": "9:30:00 am",
+      "remarks": "",
+      "lat": "13.082000",
+      "lng": "80.271000",
+      "ts": "2026-06-28T04:00:00.000Z"
+    },
+    {
+      "id": 1782888864416,
+      "offId": 2,
+      "offName": "Ravi Kumar",
+      "date": "2026-06-29",
+      "status": "present",
+      "presentTime": "9:30:00 am",
+      "remarks": "",
+      "lat": "13.082000",
+      "lng": "80.271000",
+      "ts": "2026-06-29T04:00:00.000Z"
+    },
+    {
+      "id": 1782888864415,
+      "offId": 2,
+      "offName": "Ravi Kumar",
+      "date": "2026-06-30",
+      "status": "present",
+      "presentTime": "9:30:00 am",
+      "remarks": "",
+      "lat": "13.082000",
+      "lng": "80.271000",
+      "ts": "2026-06-30T04:00:00.000Z"
+    },
+    {
+      "id": 1782888864414,
+      "offId": 2,
+      "offName": "Ravi Kumar",
+      "date": "2026-07-01",
+      "status": "present",
+      "presentTime": "9:30:00 am",
+      "remarks": "",
+      "lat": "13.082000",
+      "lng": "80.271000",
+      "ts": "2026-07-01T04:00:00.000Z"
+    },
+    {
+      "id": 1782888864427,
+      "offId": 3,
+      "offName": "Suresh M",
+      "date": "2026-06-28",
+      "status": "present",
+      "presentTime": "9:30:00 am",
+      "remarks": "",
+      "lat": "13.082100",
+      "lng": "80.271100",
+      "ts": "2026-06-28T04:00:00.000Z"
+    },
+    {
+      "id": 1782888864426,
+      "offId": 3,
+      "offName": "Suresh M",
+      "date": "2026-06-29",
+      "status": "present",
+      "presentTime": "9:30:00 am",
+      "remarks": "",
+      "lat": "13.082100",
+      "lng": "80.271100",
+      "ts": "2026-06-29T04:00:00.000Z"
+    },
+    {
+      "id": 1782888864425,
+      "offId": 3,
+      "offName": "Suresh M",
+      "date": "2026-06-30",
+      "status": "office",
+      "presentTime": "9:30:00 am",
+      "remarks": "",
+      "lat": "13.082100",
+      "lng": "80.271100",
+      "ts": "2026-06-30T04:00:00.000Z"
+    },
+    {
+      "id": 1782888864424,
+      "offId": 3,
+      "offName": "Suresh M",
+      "date": "2026-07-01",
+      "status": "present",
+      "presentTime": "9:30:00 am",
+      "remarks": "",
+      "lat": "13.082100",
+      "lng": "80.271100",
+      "ts": "2026-07-01T04:00:00.000Z"
+    },
+    {
+      "id": 1782888864437,
+      "offId": 4,
+      "offName": "Priya S",
+      "date": "2026-06-28",
+      "status": "present",
+      "presentTime": "9:30:00 am",
+      "remarks": "",
+      "lat": "13.082200",
+      "lng": "80.271200",
+      "ts": "2026-06-28T04:00:00.000Z"
+    },
+    {
+      "id": 1782888864436,
+      "offId": 4,
+      "offName": "Priya S",
+      "date": "2026-06-29",
+      "status": "absent",
+      "presentTime": "",
+      "remarks": "Down with fever, on medical leave",
+      "lat": "13.082200",
+      "lng": "80.271200",
+      "ts": "2026-06-29T04:00:00.000Z"
+    },
+    {
+      "id": 1782888864435,
+      "offId": 4,
+      "offName": "Priya S",
+      "date": "2026-06-30",
+      "status": "present",
+      "presentTime": "9:30:00 am",
+      "remarks": "",
+      "lat": "13.082200",
+      "lng": "80.271200",
+      "ts": "2026-06-30T04:00:00.000Z"
+    },
+    {
+      "id": 1782888864434,
+      "offId": 4,
+      "offName": "Priya S",
+      "date": "2026-07-01",
+      "status": "present",
+      "presentTime": "9:30:00 am",
+      "remarks": "",
+      "lat": "13.082200",
+      "lng": "80.271200",
+      "ts": "2026-07-01T04:00:00.000Z"
+    }
+  ],
+  "permissions": [
+    {
+      "id": 1782888865295,
+      "offId": 3,
+      "offName": "Suresh M",
+      "date": "2026-06-30",
+      "duration": 2,
+      "reason": "medical",
+      "remarks": "Doctor appointment in the afternoon",
+      "status": "pending",
+      "ts": "2026-07-01T03:15:00.000Z"
+    },
+    {
+      "id": 1782888865296,
+      "offId": 2,
+      "offName": "Ravi Kumar",
+      "date": "2026-06-29",
+      "duration": 1.5,
+      "reason": "personal",
+      "remarks": "Bank work",
+      "status": "approved",
+      "ts": "2026-06-30T03:40:00.000Z"
+    }
+  ]
+}
